@@ -86,7 +86,7 @@ public class EmailSocket {
                 */
 
                 out.println("From: mytest@test.com");
-                out.println("To: jnetworkprogramming@gmail.com");
+                out.println("To: horatiolsh@gmail.com");
                 out.println("Subject: TEST EMAIL");
                 out.println();
                 out.println("Subject: TEST EMAIL"); // message body
